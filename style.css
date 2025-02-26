@@ -1,13 +1,18 @@
 body {
 	background-color: rgb(65, 104, 129);
 	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	/* font-family: fantasy; */
+	margin: 50px !important;
 }
 
 #moth-container {
-	margin-top: 100px;
-	margin-left: 400px;
+	margin-top: 30px;
+	margin-left: 250px;
+	background-image: 'img/hassie1.jpg'
+
 }
 
 #moth-container img {
-	width: 500px;
+	width: 700px;
 }
