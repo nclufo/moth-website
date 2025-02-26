@@ -6,5 +6,5 @@ function changeBackground() {
 
 function rotate() {
 	console.log('rotating')
-	$('body').css({'transform': 'rotate(10deg)'});
+	$('body').css({'transform': 'rotate(20deg)'});
 }
