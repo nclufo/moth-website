@@ -9,7 +9,7 @@ body {
 #moth-container {
 	margin-top: 30px;
 	margin-left: 250px;
-	background-image: 'img/hassie1.jpg'
+	background-image: url('img/hassie1.jpg');
 
 }
 
