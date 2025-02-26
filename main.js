@@ -1,6 +1,6 @@
 function changeBackground() {
 	console.log('changing')
-	$('body').css({'backgroundColor': 'yellow'});
+	$('body').css({'backgroundColor': 'black'});
 }
 
 
